@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 41,
+  "file_count": 42,
   "files": [
     {
       "bytes": 417,
@@ -206,12 +206,17 @@
       "bytes": 1080,
       "path": "letters/history/2026-07-11 03-45-15 发烧的夜晚_9b1e69120a36.md",
       "sha256": "1cd2bbd1a40a803e85446b6ab40d61ad4e63f3aeae0e9bae43500b46ea91d5f7"
+    },
+    {
+      "bytes": 708,
+      "path": "permanent/健康/2026-07-11 18-09-01 药物提醒事项_5459defbe4b8.md",
+      "sha256": "79ec6e9976f8d963cfd08a9ee8b0688a81fee03962f25f84b38a7676555b5332"
     }
   ],
-  "generated_at": "2026-07-11T18:00:32+00:00",
+  "generated_at": "2026-07-11T18:30:35+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 34915
+  "total_bytes": 35623
 }
