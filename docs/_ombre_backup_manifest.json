@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 57,
+  "file_count": 58,
   "files": [
     {
       "bytes": 742,
@@ -193,6 +193,11 @@
       "sha256": "1ba04e20a842714d45f13b791dfafb0610deb6b8397a88f7754de483bdcc08b3"
     },
     {
+      "bytes": 979,
+      "path": "dynamic/数字/2026-07-15 18-55-08 北极星开发计划_ea6d246a8eff.md",
+      "sha256": "5ad2b8bb2c297f96ff8c5bc41389bca29524f4b0da801b8d280a8d98f2e263c1"
+    },
+    {
       "bytes": 610,
       "path": "dynamic/日常/2026-07-05 15-57-52 个人背景_82c3f803f79e.md",
       "sha256": "97d551de29e60a0d57d0a672a5cf634d666f5c425df04af71846edb5ad35067d"
@@ -288,10 +293,10 @@
       "sha256": "801f69e6fb779d7ea47cf8e50c5694b0b8e25a73e10cf512c70ab2564ffe770b"
     }
   ],
-  "generated_at": "2026-07-15T18:50:22+00:00",
+  "generated_at": "2026-07-15T19:20:25+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
-  "total_bytes": 48306
+  "total_bytes": 49285
 }
