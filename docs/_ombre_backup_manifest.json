@@ -13,6 +13,11 @@
       "sha256": "3974bfe7ae5e308d0fd0d10ef72f681668514d92a7f9d5f6f4750875a6ecb6c6"
     },
     {
+      "bytes": 357,
+      "path": "archive/未分类/2026-07-31 21-30-12_18ada90bc4aa.md",
+      "sha256": "fff3735ba76c24556e00a2117b144ed79fe5092094479d76e73fbd1f067edf75"
+    },
+    {
       "bytes": 495,
       "path": "dynamic/self/2026-07-17 19-00-39_dd94531565df.md",
       "sha256": "a0bfe5ec7218e5c52f392b5346cc08a707e8271dd24c2a19c077b890c65a5559"
@@ -433,11 +438,6 @@
       "sha256": "a8d32a825b69bc736bbea72f37f0910341f6424438adc8776e52ead162bd7fd6"
     },
     {
-      "bytes": 356,
-      "path": "dynamic/未分类/2026-07-31 21-30-12_18ada90bc4aa.md",
-      "sha256": "116789f81c8b3d3797ab9dcd275639b74fd6161c272e5cd6d0a4b8c832532e24"
-    },
-    {
       "bytes": 573,
       "path": "dynamic/社交/2026-07-12 13-37-56 社交平台语言要求_5a3a1e60dec5.md",
       "sha256": "002aabfad8f05db71f619b82e8497d8edb80c5605a6306eeb28bd674ac71651d"
@@ -588,11 +588,11 @@
       "sha256": "f529063f4496bcdaaef361496e0ea9284947980da443573061b1e4a935f1b7d0"
     }
   ],
-  "generated_at": "2026-08-07T16:29:50+00:00",
+  "generated_at": "2026-08-07T16:59:54+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 93601
+  "total_bytes": 93602
 }
