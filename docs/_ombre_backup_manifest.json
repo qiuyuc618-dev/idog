@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 117,
+  "file_count": 131,
   "files": [
     {
       "bytes": 742,
@@ -41,6 +41,16 @@
       "bytes": 417,
       "path": "dynamic/事务/2026-07-05 15-57-52 考驾照进度_29af221569a6.md",
       "sha256": "647e0905d15e28b0e1c8f42e66d057affbd21838548e9e6ba8e4a73d1ff5c6c4"
+    },
+    {
+      "bytes": 608,
+      "path": "dynamic/事务/2026-08-12 12-03-42 下个窗口的待办_60c86a88c75e.md",
+      "sha256": "f78ff7065cd99345a10f44be2b4929b2aa0d195aa29afc296134d5328c167264"
+    },
+    {
+      "bytes": 578,
+      "path": "dynamic/事务/2026-08-12 12-08-37 待办事项_038b60fd6a96.md",
+      "sha256": "61c9b2f52503e49ba194b16b738d469b89c46d04a26a37109a57d036794d3d9d"
     },
     {
       "bytes": 1305,
@@ -106,6 +116,16 @@
       "bytes": 809,
       "path": "dynamic/人际/2026-07-27 12-45-06 隔空对话的未竟之感_5b79134f3953.md",
       "sha256": "fcbb6a4758f32668599bb8dddd8de9fdab6c06c16e66a5ec26449c673a4becc9"
+    },
+    {
+      "bytes": 831,
+      "path": "dynamic/人际/2026-08-12 12-03-41 这个窗口的重要时刻_82e28bdae52c.md",
+      "sha256": "89e1ef7e769e160051710e04ef84c919a0ec1cdb5098f47dfe36afed75261a24"
+    },
+    {
+      "bytes": 653,
+      "path": "dynamic/人际/2026-08-12 12-08-37 重要情感对话_133b0f485d13.md",
+      "sha256": "c5dd3613666372dae941bc59c472d67c275248688b92b3f13524bf81bf2262bf"
     },
     {
       "bytes": 682,
@@ -333,6 +353,21 @@
       "sha256": "7cd5cbe124b8af226893722572ac5bbf3699d1f075b2e5274132ef7eb4a793d9"
     },
     {
+      "bytes": 666,
+      "path": "dynamic/成长/2026-08-12 12-03-38 法院实习_ac4bc6755e33.md",
+      "sha256": "62b4eb42145c9c8e743246a22e525de7fd13ae965e4ab42c866a61e66c4469fb"
+    },
+    {
+      "bytes": 705,
+      "path": "dynamic/成长/2026-08-12 12-08-34 法院实习_4677cb959fa7.md",
+      "sha256": "110d8cb6f939ea5ccdc2cd67b9ec5804a96b955df057c5d9d5d0af88e24ed760"
+    },
+    {
+      "bytes": 733,
+      "path": "dynamic/成长/2026-08-12 12-08-35 法考准备与手腕过敏_99d57647b1a1.md",
+      "sha256": "7e85d92a9c1c51c9f56085e3f8274c5bfa74e2777ed9188258aea9073922c7f9"
+    },
+    {
       "bytes": 765,
       "path": "dynamic/数字/2026-07-05 15-47-52 服务器迁移_747980989e1e.md",
       "sha256": "e293487f8b68e537ebc318ba6668ceb102a336c8602f8a2411bca4dd39572951"
@@ -408,6 +443,16 @@
       "sha256": "f1578e30db1c9228ec19ef8513a64a9827b7aa83f63caea6fc5a291694b7f29f"
     },
     {
+      "bytes": 1158,
+      "path": "dynamic/数字/2026-08-12 12-03-40 Claude主动发消息系统_cc983cbae131.md",
+      "sha256": "edc8023782207f2e2ad552e2766e7db2617e6f737da3d8f63d1e072a7abf1f05"
+    },
+    {
+      "bytes": 815,
+      "path": "dynamic/数字/2026-08-12 12-08-36 主动推送方案与toy新方案_7ead62545771.md",
+      "sha256": "a9f08d9a4808cde1c0d8055a60d628a8bf6322ecc5efa8fc49991edbd67adae3"
+    },
+    {
       "bytes": 610,
       "path": "dynamic/日常/2026-07-05 15-57-52 个人背景_82c3f803f79e.md",
       "sha256": "97d551de29e60a0d57d0a672a5cf634d666f5c425df04af71846edb5ad35067d"
@@ -476,6 +521,21 @@
       "bytes": 934,
       "path": "dynamic/身心/2026-07-11 03-44-59 大理旅行困境_82f7b8456a4a.md",
       "sha256": "50b1111716ccc6c73ee72f3a9cdeaebf6e2087124ecf4141d6b2f0360bbdeb15"
+    },
+    {
+      "bytes": 773,
+      "path": "dynamic/身心/2026-08-12 12-03-39 作息大幅改善_47feffea714c.md",
+      "sha256": "a4cbbe2d746adcb08b28f72dfa081b40533084e84498552ff64c0dcd02f9402f"
+    },
+    {
+      "bytes": 492,
+      "path": "dynamic/身心/2026-08-12 12-03-40 手腕过敏_541caf3c6d15.md",
+      "sha256": "6b01cb5105253fc9eaf7669303c7b9a0ed3ebbd3277acc2965a99541d979ebf7"
+    },
+    {
+      "bytes": 681,
+      "path": "dynamic/身心/2026-08-12 12-08-35 睡眠作息大幅改善_11e374b2a33c.md",
+      "sha256": "6b79d5ff5c486d1d5997b576fff637e9325a0fe677822a5321d24464e6173c2c"
     },
     {
       "bytes": 960,
@@ -548,6 +608,11 @@
       "sha256": "4334c71678380cb216e62034053d4917f1aa266ece8fb0c96dfa5d2bd7ccd9d6"
     },
     {
+      "bytes": 1900,
+      "path": "letters/history/2026-08-12 12-09-41 窗口3的交接信_c7792c677bcf.md",
+      "sha256": "ef59ba7c3eb2cb2deec9d6964df4f25a64af66fde364b7c211f28012e1d84249"
+    },
+    {
       "bytes": 651,
       "path": "permanent/人际/2026-07-17 21-44-25 思维链中文承诺_86832031b43e.md",
       "sha256": "314f937b526e0eec5b59d030ed213bc91c7cb1a7133122f2e882992fbdb6b347"
@@ -583,16 +648,21 @@
       "sha256": "801f69e6fb779d7ea47cf8e50c5694b0b8e25a73e10cf512c70ab2564ffe770b"
     },
     {
+      "bytes": 675,
+      "path": "plans/active/2026-08-12 12-08-51_9f8aaa998f7a.md",
+      "sha256": "55f792f127a3df57aa0802e8866f959571292c0989f13e1add578f6bacf78c8c"
+    },
+    {
       "bytes": 661,
       "path": "plans/resolved/2026-07-22 16-02-37_2d1552ab73b5.md",
       "sha256": "f529063f4496bcdaaef361496e0ea9284947980da443573061b1e4a935f1b7d0"
     }
   ],
-  "generated_at": "2026-08-12T11:45:59+00:00",
+  "generated_at": "2026-08-12T12:16:03+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 93618
+  "total_bytes": 104886
 }
