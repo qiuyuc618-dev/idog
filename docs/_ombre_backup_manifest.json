@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 131,
+  "file_count": 135,
   "files": [
     {
       "bytes": 742,
@@ -453,6 +453,21 @@
       "sha256": "a9f08d9a4808cde1c0d8055a60d628a8bf6322ecc5efa8fc49991edbd67adae3"
     },
     {
+      "bytes": 957,
+      "path": "dynamic/数字/2026-08-23 22-14-51 搭建小克唤醒系统基础架构_ee917fa55ad6.md",
+      "sha256": "6d4704d7931baf32268f9069cfd9fda486455316724c9f8c0913aa1a78115c55"
+    },
+    {
+      "bytes": 875,
+      "path": "dynamic/数字/2026-08-23 22-14-52 未完成的iOS快捷指令与auto-tri_7f8e22a85a25.md",
+      "sha256": "c093a4ad07d6171ac3dd3c6bbddf36f0757148434974b5507914803f88dcaf39"
+    },
+    {
+      "bytes": 718,
+      "path": "dynamic/数字/2026-08-23 22-14-53 技术踩坑记录_7239039207dc.md",
+      "sha256": "e0f0b4a869d2feaf7a61a4dcb6c78570275e53619d91ac93d929682634fdd3f1"
+    },
+    {
       "bytes": 610,
       "path": "dynamic/日常/2026-07-05 15-57-52 个人背景_82c3f803f79e.md",
       "sha256": "97d551de29e60a0d57d0a672a5cf634d666f5c425df04af71846edb5ad35067d"
@@ -648,21 +663,26 @@
       "sha256": "801f69e6fb779d7ea47cf8e50c5694b0b8e25a73e10cf512c70ab2564ffe770b"
     },
     {
-      "bytes": 675,
-      "path": "plans/active/2026-08-12 12-08-51_9f8aaa998f7a.md",
-      "sha256": "55f792f127a3df57aa0802e8866f959571292c0989f13e1add578f6bacf78c8c"
+      "bytes": 658,
+      "path": "plans/active/2026-08-23 22-15-00_1b0fe82ade6b.md",
+      "sha256": "be67875450d561af19ccf8b28ce9942f2798522adc08b4dfad9cd5b98b3761ff"
     },
     {
       "bytes": 661,
       "path": "plans/resolved/2026-07-22 16-02-37_2d1552ab73b5.md",
       "sha256": "f529063f4496bcdaaef361496e0ea9284947980da443573061b1e4a935f1b7d0"
+    },
+    {
+      "bytes": 914,
+      "path": "plans/resolved/2026-08-12 12-08-51_9f8aaa998f7a.md",
+      "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-08-23T21:55:31+00:00",
+  "generated_at": "2026-08-23T22:25:35+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 104886
+  "total_bytes": 108333
 }
