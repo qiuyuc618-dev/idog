@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 141,
+  "file_count": 142,
   "files": [
     {
       "bytes": 742,
@@ -503,6 +503,11 @@
       "sha256": "e0f0b4a869d2feaf7a61a4dcb6c78570275e53619d91ac93d929682634fdd3f1"
     },
     {
+      "bytes": 519,
+      "path": "dynamic/数字/2026-09-14 15-27-39 思考链格式规范_88113770c1b1.md",
+      "sha256": "034e9c941933af8603646598d1fca66753064ede2fadfaf6d361699e41c89df0"
+    },
+    {
       "bytes": 610,
       "path": "dynamic/日常/2026-07-05 15-57-52 个人背景_82c3f803f79e.md",
       "sha256": "97d551de29e60a0d57d0a672a5cf634d666f5c425df04af71846edb5ad35067d"
@@ -708,11 +713,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-09-14T15:10:01+00:00",
+  "generated_at": "2026-09-14T15:40:06+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 112816
+  "total_bytes": 113335
 }
