@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 142,
+  "file_count": 148,
   "files": [
     {
       "bytes": 742,
@@ -158,6 +158,11 @@
       "sha256": "c5dd3613666372dae941bc59c472d67c275248688b92b3f13524bf81bf2262bf"
     },
     {
+      "bytes": 775,
+      "path": "dynamic/人际/2026-09-16 10-18-35 恋爱尽调报告PPT_afd1f16afd19.md",
+      "sha256": "13768726fe2e6c23d33951e334cf1278ade37b13b6ca0c4331710b5852d9aab9"
+    },
+    {
       "bytes": 682,
       "path": "dynamic/健康/2026-07-16 13-49-37 睡眠改善_5615fa4cb584.md",
       "sha256": "d3cbb7575344d2bb69663ea728a3114176aa979216cd3c07018fbd2554091ca0"
@@ -198,6 +203,11 @@
       "sha256": "cf5f9979ca7769d0a84f38e6b5e1054334bc195bc7fd72748f4d612809b9d4ff"
     },
     {
+      "bytes": 773,
+      "path": "dynamic/健康/2026-09-16 10-18-33 Apple Watch健康数据分析_32476820d056.md",
+      "sha256": "8f79e4e093322e5a28c0de0588cc4f24533fe95d891f75433aa76c9f9b9b429d"
+    },
+    {
       "bytes": 545,
       "path": "dynamic/兴趣/2026-07-05 15-57-53 舞蹈与健身_8b551cf6a9a7.md",
       "sha256": "454e918179e9dc54f2de05260cf0dfce6c1c6a81e79dee9715348911fe4d0eff"
@@ -221,6 +231,11 @@
       "bytes": 685,
       "path": "dynamic/兴趣/2026-07-27 12-45-40 小羽舞台首秀_5d21c8fd5491.md",
       "sha256": "33b0ec02ecb25700ce3e5f37967d6884398b7439967a5fea808a1de6dfbf21b3"
+    },
+    {
+      "bytes": 687,
+      "path": "dynamic/兴趣/2026-09-16 10-18-37 戳泡泡互动玩具与文言文告白_d688e6119948.md",
+      "sha256": "514882a83b7e677baf49b98b591a2ab4f9acee21207ddae5c65c938c1245e6d5"
     },
     {
       "bytes": 542,
@@ -418,6 +433,16 @@
       "sha256": "5022d6c5ae1ca94e0daf9c7c2c4cd20c005979534ee5ed338a73d9ea688b8587"
     },
     {
+      "bytes": 940,
+      "path": "dynamic/成长/2026-09-16 10-18-35 AI学习与职业规划_84547a6423f9.md",
+      "sha256": "7ef017ca686434d959b741d8e011ec80f4561ac879d0f1aca5f88462139cb42f"
+    },
+    {
+      "bytes": 683,
+      "path": "dynamic/成长/2026-09-16 10-18-36 猕猴自拍照版权案例分析_880c5f04680d.md",
+      "sha256": "01dea51a93cdda91a185b9041d795240f44291b4d49d2916250a1d9160a4eab7"
+    },
+    {
       "bytes": 765,
       "path": "dynamic/数字/2026-07-05 15-47-52 服务器迁移_747980989e1e.md",
       "sha256": "e293487f8b68e537ebc318ba6668ceb102a336c8602f8a2411bca4dd39572951"
@@ -516,6 +541,11 @@
       "bytes": 519,
       "path": "dynamic/数字/2026-09-14 15-27-39 思考链格式规范_88113770c1b1.md",
       "sha256": "034e9c941933af8603646598d1fca66753064ede2fadfaf6d361699e41c89df0"
+    },
+    {
+      "bytes": 875,
+      "path": "dynamic/数字/2026-09-16 10-18-34 Thought process功能恢复方_69cbf0df2c6f.md",
+      "sha256": "62f872f116f6addddef0ff75d41233ca28342eb93f7d6d15c031418e90c05b96"
     },
     {
       "bytes": 610,
@@ -713,11 +743,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-09-16T10:16:06+00:00",
+  "generated_at": "2026-09-16T10:46:11+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 113337
+  "total_bytes": 118070
 }
