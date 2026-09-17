@@ -1,7 +1,57 @@
 {
   "branch": "main",
-  "file_count": 148,
+  "file_count": 158,
   "files": [
+    {
+      "bytes": 29494,
+      "path": "_app/docs/CLAUDE_PROMPT.md",
+      "sha256": "7851e0ca0b8a6300456ca8a1445925abea708b72897a2e9859209c168b95beec"
+    },
+    {
+      "bytes": 6987,
+      "path": "_app/docs/ENVIRONMENT_VARIABLES.md",
+      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
+    },
+    {
+      "bytes": 160557,
+      "path": "_app/docs/INTERNALS.md",
+      "sha256": "e28ab2b712331eb8f577dc0f58c7825afdb79472dedede337f5049a6bfe8d5c9"
+    },
+    {
+      "bytes": 3683,
+      "path": "_app/docs/MULTI_OWNER.md",
+      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
+    },
+    {
+      "bytes": 22510,
+      "path": "_app/docs/OPERATIONS.md",
+      "sha256": "891741de81ebab953e44a3db65a03696df10e549b81e5da4693818db1a0833ba"
+    },
+    {
+      "bytes": 4547,
+      "path": "_app/docs/adr/ADR-0001-source-evidence-layer.md",
+      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
+    },
+    {
+      "bytes": 55882,
+      "path": "_app/docs/adr/ADR-0002-read-only-spark-boundary.md",
+      "sha256": "1407ca33d5c1f207b864ae186036ab5e3053fd900720561e463e78c8b872aed6"
+    },
+    {
+      "bytes": 5911,
+      "path": "_app/docs/adr/ADR-0003-unified-human-archive-entry.md",
+      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
+    },
+    {
+      "bytes": 9052,
+      "path": "_app/docs/adr/ADR-0004-you-derived-understanding-boundary.md",
+      "sha256": "fad6f6de63730db24232be68a96960362065bdc8659ab033b6fe1b14e679a24a"
+    },
+    {
+      "bytes": 508,
+      "path": "_app/kernel/rust/ombre-kernel/README.md",
+      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
     {
       "bytes": 742,
       "path": "archive/2026-07-11 18-09-01 药物提醒事项_5459defbe4b8.md",
@@ -31,6 +81,11 @@
       "bytes": 546,
       "path": "archive/人际/2026-07-09 04-28-05 智能梗图_127d63778d52.md",
       "sha256": "ff93c1b25295c2e4a64ae57d20f7671542ac9c07c678c14a1b07275609716e84"
+    },
+    {
+      "bytes": 764,
+      "path": "archive/人际/2026-07-12 06-51-18 情绪恢复_f1830577a5e6.md",
+      "sha256": "8a5193447e5d72b0f0405b29b7ba45c57e1898697f632e82bd094a600d866ee1"
     },
     {
       "bytes": 546,
@@ -141,11 +196,6 @@
       "bytes": 738,
       "path": "dynamic/人际/2026-07-12 06-51-17 沟通失误_cb57ebde9dfb.md",
       "sha256": "1b4078aa261e3923e5f289e5d9bfb9d90c4971650d5d4023204d0ff685e9275d"
-    },
-    {
-      "bytes": 763,
-      "path": "dynamic/人际/2026-07-12 06-51-18 情绪恢复_f1830577a5e6.md",
-      "sha256": "e5817906c73e9a903fbebd991b02116ab32591111930d5daaabe7a70d0eeba9b"
     },
     {
       "bytes": 732,
@@ -743,11 +793,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-09-17T10:49:31+00:00",
+  "generated_at": "2026-09-17T11:46:40+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 118073
+  "total_bytes": 417205
 }
