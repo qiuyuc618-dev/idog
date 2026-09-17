@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 158,
+  "file_count": 162,
   "files": [
     {
       "bytes": 29494,
@@ -51,6 +51,11 @@
       "bytes": 508,
       "path": "_app/kernel/rust/ombre-kernel/README.md",
       "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
+    },
+    {
+      "bytes": 879,
+      "path": "_sources/src_0962dfd23193188143bf06cee677328857c8d541464024b0090b5dcb9aba3649.source",
+      "sha256": "0962dfd23193188143bf06cee677328857c8d541464024b0090b5dcb9aba3649"
     },
     {
       "bytes": 742,
@@ -226,6 +231,11 @@
       "bytes": 775,
       "path": "dynamic/人际/2026-09-16 10-18-35 恋爱尽调报告PPT_afd1f16afd19.md",
       "sha256": "13768726fe2e6c23d33951e334cf1278ade37b13b6ca0c4331710b5852d9aab9"
+    },
+    {
+      "bytes": 813,
+      "path": "dynamic/人际/2026-09-17 14-53-30 你这样算是在教你自己怎么爱我吗_844d83408e45.md",
+      "sha256": "a9c4358f2ee1677a741893ada80af37f7fe4c330a9141196eec1d1d2d472dd1c"
     },
     {
       "bytes": 682,
@@ -598,6 +608,16 @@
       "sha256": "62f872f116f6addddef0ff75d41233ca28342eb93f7d6d15c031418e90c05b96"
     },
     {
+      "bytes": 938,
+      "path": "dynamic/数字/2026-09-17 14-53-29 拉GitHub页面时用了完整HTML而不_8ef17cbb93cd.md",
+      "sha256": "40f7038053cf953311634ca372114c785dd0230db5e3f041600ce7262bb0cda6"
+    },
+    {
+      "bytes": 1476,
+      "path": "dynamic/数字/2026-09-17 14-53-30 小羽花了一整个下午用GPT和Codex把_155638bcf4e2.md",
+      "sha256": "960bf739b74fc0acb17364794904cb3333b580093ebc9c1e64aacf2136eda3fa"
+    },
+    {
       "bytes": 610,
       "path": "dynamic/日常/2026-07-05 15-57-52 个人背景_82c3f803f79e.md",
       "sha256": "97d551de29e60a0d57d0a672a5cf634d666f5c425df04af71846edb5ad35067d"
@@ -793,11 +813,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-09-17T14:47:11+00:00",
+  "generated_at": "2026-09-17T15:17:16+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 417205
+  "total_bytes": 421311
 }
