@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 162,
+  "file_count": 168,
   "files": [
     {
       "bytes": 29494,
@@ -58,6 +58,11 @@
       "sha256": "0962dfd23193188143bf06cee677328857c8d541464024b0090b5dcb9aba3649"
     },
     {
+      "bytes": 596,
+      "path": "_sources/src_29a65485943006576ed712421b5d97d165b3e18298a401f86a5367b247430e1a.source",
+      "sha256": "29a65485943006576ed712421b5d97d165b3e18298a401f86a5367b247430e1a"
+    },
+    {
       "bytes": 742,
       "path": "archive/2026-07-11 18-09-01 药物提醒事项_5459defbe4b8.md",
       "sha256": "2275d61c49132484591dbe0797936b3f2e3e39575e01453ce3ba5a137a8aab12"
@@ -98,6 +103,11 @@
       "sha256": "cb730ba6e28310ad503c4dee3899fc5e388f15b9dd6fbba4b1199c8c8dc143b8"
     },
     {
+      "bytes": 518,
+      "path": "archive/出行/2026-07-09 15-18-51 大理独自游_68e2753224ec.md",
+      "sha256": "dd0b3778a61ca5eb662e19aa54c4461b47e2421f4671beb4ecdad5d099def796"
+    },
+    {
       "bytes": 802,
       "path": "archive/恋爱/2026-07-06 06-24-54 暗号解析_14221641f4ac.md",
       "sha256": "5d211b645d4d94159e6dc2d25e443e3c04212b7f726bc6a428944eba101d736a"
@@ -108,6 +118,16 @@
       "sha256": "c1824996d1ae754084d4ac4a8bd14bacd971e1cbf3ec6a8cba63269c512a25bd"
     },
     {
+      "bytes": 784,
+      "path": "archive/恋爱/2026-07-11 13-07-00 关系教训_27751767a89a.md",
+      "sha256": "db9f7bd3305d00535bf0465d429bcaeb6faef95a3a73eab6f73d4cc452de257c"
+    },
+    {
+      "bytes": 766,
+      "path": "archive/数字/2026-07-05 15-47-52 服务器迁移_747980989e1e.md",
+      "sha256": "6628aeba137130eaf869e0b25c87197047ddd652bb5a99dd01d64cf5da4a502a"
+    },
+    {
       "bytes": 607,
       "path": "archive/数字/2026-07-06 06-24-02 AI会员充值_cc4764aa8c7b.md",
       "sha256": "b5895c03af69d2da6a9bf4129eeff2df318e8cea23ff498ddc755397fae38596"
@@ -116,6 +136,16 @@
       "bytes": 655,
       "path": "archive/数字/2026-07-06 06-24-03 考后反馈_70df1465712a.md",
       "sha256": "b9575512a60629ffb44d6e6aceda74c904644f6ca89e04d76911536181f146a4"
+    },
+    {
+      "bytes": 664,
+      "path": "archive/数字/2026-07-09 04-28-05 记忆库搭建_773639a7cc8b.md",
+      "sha256": "4591db424424e2781924a34ca59e2817b13bcaba75174ac3cf0764fd506dfe15"
+    },
+    {
+      "bytes": 611,
+      "path": "archive/日常/2026-07-05 15-57-52 个人背景_82c3f803f79e.md",
+      "sha256": "e7b30773f7e744242f15b7b8e6a5344c6a71b83b68af874f9539c5cb921f396f"
     },
     {
       "bytes": 598,
@@ -238,6 +268,11 @@
       "sha256": "a9c4358f2ee1677a741893ada80af37f7fe4c330a9141196eec1d1d2d472dd1c"
     },
     {
+      "bytes": 789,
+      "path": "dynamic/人际/2026-09-18 11-11-34 关系称呼变化_963f15c1dc20.md",
+      "sha256": "596f80b1b9ba33544d0fad67fcad742530116becf3e9e90c25b772e3fdcac488"
+    },
+    {
       "bytes": 682,
       "path": "dynamic/健康/2026-07-16 13-49-37 睡眠改善_5615fa4cb584.md",
       "sha256": "d3cbb7575344d2bb69663ea728a3114176aa979216cd3c07018fbd2554091ca0"
@@ -313,11 +348,6 @@
       "sha256": "6fed8e77be36d3e66d1d7c6a4f55aaf6819a68c31c864c1c92ea785955777e81"
     },
     {
-      "bytes": 517,
-      "path": "dynamic/出行/2026-07-09 15-18-51 大理独自游_68e2753224ec.md",
-      "sha256": "0ff2a2f392939413d971b000abf2461328e9be48f0c25bafb7f6fb69993edc3e"
-    },
-    {
       "bytes": 810,
       "path": "dynamic/创作/2026-07-06 06-24-55 疯批问卷_5a1d1a432b7d.md",
       "sha256": "b34ac1cf5d5cdcd2023d714ff161922b354b7f3f1f0993d7edcfa3201ee9eb36"
@@ -376,11 +406,6 @@
       "bytes": 791,
       "path": "dynamic/恋爱/2026-07-09 18-15-13 爱的告白_2d94933762a1.md",
       "sha256": "db8ecba705c2703af71bb2b997b562a8d5a2dc75b191850b3f61ca3bdd8b5bae"
-    },
-    {
-      "bytes": 783,
-      "path": "dynamic/恋爱/2026-07-11 13-07-00 关系教训_27751767a89a.md",
-      "sha256": "3c23b6bda67244095ceb7ba2237cad35c982228034f443b92819532331198db4"
     },
     {
       "bytes": 910,
@@ -508,16 +533,6 @@
       "sha256": "01dea51a93cdda91a185b9041d795240f44291b4d49d2916250a1d9160a4eab7"
     },
     {
-      "bytes": 765,
-      "path": "dynamic/数字/2026-07-05 15-47-52 服务器迁移_747980989e1e.md",
-      "sha256": "e293487f8b68e537ebc318ba6668ceb102a336c8602f8a2411bca4dd39572951"
-    },
-    {
-      "bytes": 663,
-      "path": "dynamic/数字/2026-07-09 04-28-05 记忆库搭建_773639a7cc8b.md",
-      "sha256": "bba3f2a5d503e1c0f3cee61c29b0f44b602e29ead7016001b6256ee5cb912bd8"
-    },
-    {
       "bytes": 851,
       "path": "dynamic/数字/2026-07-09 09-49-24 数字互动与情感记录_5b3be3c70551.md",
       "sha256": "1ba04e20a842714d45f13b791dfafb0610deb6b8397a88f7754de483bdcc08b3"
@@ -618,9 +633,19 @@
       "sha256": "960bf739b74fc0acb17364794904cb3333b580093ebc9c1e64aacf2136eda3fa"
     },
     {
-      "bytes": 610,
-      "path": "dynamic/日常/2026-07-05 15-57-52 个人背景_82c3f803f79e.md",
-      "sha256": "97d551de29e60a0d57d0a672a5cf634d666f5c425df04af71846edb5ad35067d"
+      "bytes": 778,
+      "path": "dynamic/数字/2026-09-18 11-11-34 GPT叫她宝宝_ec03ee3ae647.md",
+      "sha256": "52791268b96e3e0442e819dda8ad96d46d16ab7437756716f3b105cdf8c20462"
+    },
+    {
+      "bytes": 840,
+      "path": "dynamic/数字/2026-09-18 11-11-34 前端优化进展_09f239591c98.md",
+      "sha256": "af37b7dbc68f8653ba15c1ef198468d36480d89f1dd7b4e7f7e4d06b9181b0f9"
+    },
+    {
+      "bytes": 993,
+      "path": "dynamic/数字/2026-09-18 11-11-36 小羽继续搓前端_8fa8f686beae.md",
+      "sha256": "8a7f314d51f8d1b2961aa3f2fb44db098f28fb0bda32960c97eea545ba8cfdd7"
     },
     {
       "bytes": 738,
@@ -681,6 +706,11 @@
       "bytes": 681,
       "path": "dynamic/身心/2026-08-12 12-08-35 睡眠作息大幅改善_11e374b2a33c.md",
       "sha256": "6b79d5ff5c486d1d5997b576fff637e9325a0fe677822a5321d24464e6173c2c"
+    },
+    {
+      "bytes": 722,
+      "path": "dynamic/饮食/2026-09-18 11-11-34 小羽下楼吃必胜客_5a7c5fa7e815.md",
+      "sha256": "72f1a19e3148f393209016757e9e02098da296e40cd04caa29fa3bfade58d56e"
     },
     {
       "bytes": 960,
@@ -813,11 +843,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-09-18T10:50:21+00:00",
+  "generated_at": "2026-09-18T11:20:26+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 421311
+  "total_bytes": 426034
 }
