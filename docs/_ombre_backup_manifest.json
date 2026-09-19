@@ -73,6 +73,16 @@
       "sha256": "3974bfe7ae5e308d0fd0d10ef72f681668514d92a7f9d5f6f4750875a6ecb6c6"
     },
     {
+      "bytes": 647,
+      "path": "archive/2026-09-14 15-27-39 思考链格式规范_88113770c1b1.md",
+      "sha256": "ba7c0d7758747f62503602e52aad4a0b5599a9b6ed22ec22c63a16395021c93d"
+    },
+    {
+      "bytes": 1003,
+      "path": "archive/2026-09-16 10-18-34 Thought process功能恢复方_69cbf0df2c6f.md",
+      "sha256": "caefe12d32a9ccc16f2f97697c4f877c73110f8d218ca979771543357905e588"
+    },
+    {
       "bytes": 418,
       "path": "archive/事务/2026-07-05 15-57-52 考驾照进度_29af221569a6.md",
       "sha256": "1b9ccf84dda34582bbc1d5126a6906af850aab2f5dd3cc17444a6465327e1968"
@@ -613,16 +623,6 @@
       "sha256": "e0f0b4a869d2feaf7a61a4dcb6c78570275e53619d91ac93d929682634fdd3f1"
     },
     {
-      "bytes": 519,
-      "path": "dynamic/数字/2026-09-14 15-27-39 思考链格式规范_88113770c1b1.md",
-      "sha256": "034e9c941933af8603646598d1fca66753064ede2fadfaf6d361699e41c89df0"
-    },
-    {
-      "bytes": 875,
-      "path": "dynamic/数字/2026-09-16 10-18-34 Thought process功能恢复方_69cbf0df2c6f.md",
-      "sha256": "62f872f116f6addddef0ff75d41233ca28342eb93f7d6d15c031418e90c05b96"
-    },
-    {
       "bytes": 938,
       "path": "dynamic/数字/2026-09-17 14-53-29 拉GitHub页面时用了完整HTML而不_8ef17cbb93cd.md",
       "sha256": "40f7038053cf953311634ca372114c785dd0230db5e3f041600ce7262bb0cda6"
@@ -843,11 +843,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-09-19T04:23:13+00:00",
+  "generated_at": "2026-09-19T04:53:18+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 426034
+  "total_bytes": 426290
 }
