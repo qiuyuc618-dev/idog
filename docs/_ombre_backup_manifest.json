@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 168,
+  "file_count": 169,
   "files": [
     {
       "bytes": 29494,
@@ -833,6 +833,11 @@
       "sha256": "be67875450d561af19ccf8b28ce9942f2798522adc08b4dfad9cd5b98b3761ff"
     },
     {
+      "bytes": 517,
+      "path": "plans/active/2026-09-20 08-31-34_6df213ebe709.md",
+      "sha256": "47706227224a81a30db729ee37f359bb838547e0ccab4e6c3fd6575e03f55ab4"
+    },
+    {
       "bytes": 661,
       "path": "plans/resolved/2026-07-22 16-02-37_2d1552ab73b5.md",
       "sha256": "f529063f4496bcdaaef361496e0ea9284947980da443573061b1e4a935f1b7d0"
@@ -843,11 +848,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-09-20T08:27:37+00:00",
+  "generated_at": "2026-09-20T08:57:42+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 426291
+  "total_bytes": 426808
 }
