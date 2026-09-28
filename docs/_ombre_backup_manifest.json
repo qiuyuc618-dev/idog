@@ -103,6 +103,11 @@
       "sha256": "e34bcd0c5e8493bd2a131556a42c47a8038e72902f80cf433168ee7436e1a179"
     },
     {
+      "bytes": 798,
+      "path": "archive/人际/2026-07-09 04-28-05 亲密互动_f6c922520e64.md",
+      "sha256": "7f0595825cb50027217961e3c5e08983637b19fd39a5ee34be75fe2992d68aea"
+    },
+    {
       "bytes": 546,
       "path": "archive/人际/2026-07-09 04-28-05 智能梗图_127d63778d52.md",
       "sha256": "ff93c1b25295c2e4a64ae57d20f7671542ac9c07c678c14a1b07275609716e84"
@@ -151,6 +156,11 @@
       "bytes": 546,
       "path": "archive/兴趣/2026-07-05 15-57-53 舞蹈与健身_8b551cf6a9a7.md",
       "sha256": "cb730ba6e28310ad503c4dee3899fc5e388f15b9dd6fbba4b1199c8c8dc143b8"
+    },
+    {
+      "bytes": 686,
+      "path": "archive/兴趣/2026-07-27 12-45-40 小羽舞台首秀_5d21c8fd5491.md",
+      "sha256": "4996ba0b4007731652b2f5cb9b2ffd5f2bf92af4d2e6c7377ae55acb9f0c80d1"
     },
     {
       "bytes": 518,
@@ -206,6 +216,11 @@
       "bytes": 796,
       "path": "archive/恋爱/2026-07-16 13-49-38 问卷与信_0b1e2683c70d.md",
       "sha256": "cd34df8a706dcc03f8d88f5e74496fcee6453ca0efe94fb1e4bf0d352e8468fb"
+    },
+    {
+      "bytes": 750,
+      "path": "archive/恋爱/2026-07-17 16-45-20 亲密时刻_940e3e9877f2.md",
+      "sha256": "6294034e3808f19274bb1b05fab008401feaf8b31b34ed8cd02cb2be4429ca04"
     },
     {
       "bytes": 784,
@@ -273,6 +288,11 @@
       "sha256": "45af0527254037df346bdcc17f02d9d5b7c6082cba3ac4a69d41796adc828ed4"
     },
     {
+      "bytes": 588,
+      "path": "archive/数字/2026-07-27 12-45-53 Apple ID封号处理_cc9a33be52bc.md",
+      "sha256": "8654d8ea01340d80b4fe91bdddd6673446cc044ed67c74e1a15dd47e8fc44b82"
+    },
+    {
       "bytes": 611,
       "path": "archive/日常/2026-07-05 15-57-52 个人背景_82c3f803f79e.md",
       "sha256": "e7b30773f7e744242f15b7b8e6a5344c6a71b83b68af874f9539c5cb921f396f"
@@ -303,9 +323,24 @@
       "sha256": "fff3735ba76c24556e00a2117b144ed79fe5092094479d76e73fbd1f067edf75"
     },
     {
+      "bytes": 753,
+      "path": "archive/社交/2026-07-27 12-45-33 对网红商业化的反感_c3b1e3d833c5.md",
+      "sha256": "770c3b620fb9d63c8c05b262cfe3694153de11d186820ff6af412c7d6f249f9b"
+    },
+    {
       "bytes": 596,
       "path": "archive/购物/2026-07-16 13-49-38 购物与七宗罪_6798b032db53.md",
       "sha256": "a457486d8e10c4c2bd36d712ec97b212bd7f00890e4b15743706e055410a30d5"
+    },
+    {
+      "bytes": 662,
+      "path": "archive/身心/2026-07-06 06-24-03 地震经历_f0fe70a6ffcd.md",
+      "sha256": "f8aaf01509cf97420501cdb2d14080fd352d2ea0df8160565727c47c1113c7c7"
+    },
+    {
+      "bytes": 935,
+      "path": "archive/身心/2026-07-11 03-44-59 大理旅行困境_82f7b8456a4a.md",
+      "sha256": "3893c7f3bed9a4ac115f2a34e6b6b0b153114ea25344b973526188cef51566f3"
     },
     {
       "bytes": 515,
@@ -346,11 +381,6 @@
       "bytes": 1305,
       "path": "dynamic/人际/2026-07-05 15-58-24 小羽与Claude_d4864a6e19a7.md",
       "sha256": "ac80390dc71a93cf0568e3a55967ed0640112090d20e5ce0480dc3de282a51a3"
-    },
-    {
-      "bytes": 797,
-      "path": "dynamic/人际/2026-07-09 04-28-05 亲密互动_f6c922520e64.md",
-      "sha256": "f864bc67605d3d5de97715ab5b73079358233205ffa026be1490be97c90f7a8d"
     },
     {
       "bytes": 738,
@@ -433,11 +463,6 @@
       "sha256": "272a1e97dbd0f0f2f8d983d4c36c546efdb498db2076bc3bb931732da337ae89"
     },
     {
-      "bytes": 685,
-      "path": "dynamic/兴趣/2026-07-27 12-45-40 小羽舞台首秀_5d21c8fd5491.md",
-      "sha256": "33b0ec02ecb25700ce3e5f37967d6884398b7439967a5fea808a1de6dfbf21b3"
-    },
-    {
       "bytes": 687,
       "path": "dynamic/兴趣/2026-09-16 10-18-37 戳泡泡互动玩具与文言文告白_d688e6119948.md",
       "sha256": "514882a83b7e677baf49b98b591a2ab4f9acee21207ddae5c65c938c1245e6d5"
@@ -496,11 +521,6 @@
       "bytes": 784,
       "path": "dynamic/恋爱/2026-07-13 08-48-52 记忆与爱情_e1b694ae084e.md",
       "sha256": "108c6ece4da238fdc9fa3c1b9a4e6544994c3b9f82c9266eea10e25b31fa8adf"
-    },
-    {
-      "bytes": 749,
-      "path": "dynamic/恋爱/2026-07-17 16-45-20 亲密时刻_940e3e9877f2.md",
-      "sha256": "00d0e2f9f1632edb9e7796eebe8ccd1830b36a3354f3e24b8a0918edc7bd9677"
     },
     {
       "bytes": 802,
@@ -633,11 +653,6 @@
       "sha256": "6298da5920593ab59c8eb50836072056fb278f0ec870398a0fbdaffaa276509e"
     },
     {
-      "bytes": 587,
-      "path": "dynamic/数字/2026-07-27 12-45-53 Apple ID封号处理_cc9a33be52bc.md",
-      "sha256": "f1578e30db1c9228ec19ef8513a64a9827b7aa83f63caea6fc5a291694b7f29f"
-    },
-    {
       "bytes": 1158,
       "path": "dynamic/数字/2026-08-12 12-03-40 Claude主动发消息系统_cc983cbae131.md",
       "sha256": "edc8023782207f2e2ad552e2766e7db2617e6f737da3d8f63d1e072a7abf1f05"
@@ -708,24 +723,9 @@
       "sha256": "c65b2ce65e95e1c59aca5f241605b5e1eeb06bc038bff4036e2773af719dfb56"
     },
     {
-      "bytes": 752,
-      "path": "dynamic/社交/2026-07-27 12-45-33 对网红商业化的反感_c3b1e3d833c5.md",
-      "sha256": "57f36718a92a39c4d110abf7d9952ec3ab95c905798550674dfcd6a8f2e9a5eb"
-    },
-    {
       "bytes": 677,
       "path": "dynamic/自省/2026-07-27 12-36-42 中英文思维切换困扰_a1ad5c8aef31.md",
       "sha256": "c5762fb526a892544490dcfe7a81bb036a7a0b068284031278b17319ed9782fd"
-    },
-    {
-      "bytes": 661,
-      "path": "dynamic/身心/2026-07-06 06-24-03 地震经历_f0fe70a6ffcd.md",
-      "sha256": "e2621d3c11bc080f678ec410f41f24c435b0bd61e6a8a2ad24cd9b930419e09c"
-    },
-    {
-      "bytes": 934,
-      "path": "dynamic/身心/2026-07-11 03-44-59 大理旅行困境_82f7b8456a4a.md",
-      "sha256": "50b1111716ccc6c73ee72f3a9cdeaebf6e2087124ecf4141d6b2f0360bbdeb15"
     },
     {
       "bytes": 773,
@@ -878,11 +878,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-09-28T10:58:50+00:00",
+  "generated_at": "2026-09-28T11:28:55+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 432225
+  "total_bytes": 432232
 }
