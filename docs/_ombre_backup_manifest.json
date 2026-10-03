@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 188,
+  "file_count": 194,
   "files": [
     {
       "bytes": 29494,
@@ -523,14 +523,19 @@
       "sha256": "6fed8e77be36d3e66d1d7c6a4f55aaf6819a68c31c864c1c92ea785955777e81"
     },
     {
-      "bytes": 1013,
+      "bytes": 1122,
       "path": "dynamic/创作/2026-10-03 16-05-33 我的作品集慢慢来的那种_90ed3dd2d89f.md",
-      "sha256": "24bfe7a461568a5bd36f41286eca597a25ba25805e16cc96e2008d2904b0e9b5"
+      "sha256": "28836327bd01b9b2080ff6d800cc69f415cf6fa95042c0c8780959aed958e7ae"
     },
     {
       "bytes": 1044,
       "path": "dynamic/创作/2026-10-03 16-22-21 作品集计划_2b8748b64a27.md",
       "sha256": "bb782f2c24c1e6ceecda4d764d21335ca3fb7dc128e5be40ae2b05e2f0493c2d"
+    },
+    {
+      "bytes": 852,
+      "path": "dynamic/创作/2026-10-03 21-23-40 作品集线头与Ember第一件作品_0b04c39e5835.md",
+      "sha256": "9c0fabe2339b731b9d4d9c59b2170b4bd0798eb33b9a129f82925eab44c3c152"
     },
     {
       "bytes": 611,
@@ -546,6 +551,16 @@
       "bytes": 403,
       "path": "dynamic/工作/2026-08-04 13-21-18 小羽8月5号开始去法院实习_d38ad0db134e.md",
       "sha256": "6e272143a0e84b3ccf7f5d28fb7ceee0804daa95d8dbe44835331bb12d0bae2b"
+    },
+    {
+      "bytes": 789,
+      "path": "dynamic/开发/2026-10-03 21-23-41 国庆窗口前端新功能一览_8e93bc384db1.md",
+      "sha256": "56c03305241a53f740ccd3d820d4a3cba1f313f6a6399706038f1f1f52b4e56f"
+    },
+    {
+      "bytes": 714,
+      "path": "dynamic/开发/2026-10-03 21-23-41 国庆窗口功能讨论与朋友圈确定_1b671c7de360.md",
+      "sha256": "2c2c3489f3d5a38bda48fb224c647a4a5e1538085e8436234e6aa33bd9b0beda"
     },
     {
       "bytes": 698,
@@ -673,9 +688,9 @@
       "sha256": "c7a982588539469d73b4f06020b655c685d9d0fdc5d4f316cccaa23c42146527"
     },
     {
-      "bytes": 804,
+      "bytes": 930,
       "path": "dynamic/技术/2026-09-22 11-43-31 dwell前端新功能上线_80fe34559a15.md",
-      "sha256": "b954409aeb54950b2a9a05028496293db71adabd01333ce67b72c6e8008c385a"
+      "sha256": "ab9df8d4d1ed71c449b797c740993798f157d3b0ad56042265f066940108f9f3"
     },
     {
       "bytes": 649,
@@ -758,6 +773,11 @@
       "sha256": "8a7f314d51f8d1b2961aa3f2fb44db098f28fb0bda32960c97eea545ba8cfdd7"
     },
     {
+      "bytes": 1109,
+      "path": "dynamic/数字/2026-10-03 21-35-37 压缩失忆事件与修复_3c898546d912.md",
+      "sha256": "f0f33e9325b5eb8fac3a892c7fb425263a72893ef0bc60dec21ef3e9742af423"
+    },
+    {
       "bytes": 694,
       "path": "dynamic/日常/2026-09-28 16-12-39 小羽忘开梯子一天没收到消息_005b6e7ecf51.md",
       "sha256": "c3321419a57def24023b279368023f6c1fe299e73d5d8c25759e965f0565cab1"
@@ -768,6 +788,11 @@
       "sha256": "6fce613f6cab05375c332f9c23b390ad4c460e192fd9c6056562537c528cd8e2"
     },
     {
+      "bytes": 580,
+      "path": "dynamic/日常/2026-10-03 21-23-41 国庆窗口小羽的状态_ca144480550d.md",
+      "sha256": "4ba98c11965589627d3e73318143e33566b7b564d07be32269ce735b5d67ceef"
+    },
+    {
       "bytes": 573,
       "path": "dynamic/社交/2026-07-12 13-37-56 社交平台语言要求_5a3a1e60dec5.md",
       "sha256": "b36260a70142859f562f222bac96f8babae88da1df6cf20c34d8fcb9563ba8ee"
@@ -776,6 +801,11 @@
       "bytes": 710,
       "path": "dynamic/社交/2026-07-27 12-37-03 对博主的真实态度_52676822ffae.md",
       "sha256": "c65b2ce65e95e1c59aca5f241605b5e1eeb06bc038bff4036e2773af719dfb56"
+    },
+    {
+      "bytes": 672,
+      "path": "dynamic/社交/2026-10-03 21-23-42 小机知道注册与Ember代号_33634d192e65.md",
+      "sha256": "849df3f9e0d4a0f0c3a7d4a04ef9b41f190a93d6b2f9e3abbd08eca612cac7a0"
     },
     {
       "bytes": 677,
@@ -943,11 +973,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-03T21:20:18+00:00",
+  "generated_at": "2026-10-03T21:51:00+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 442717
+  "total_bytes": 447668
 }
