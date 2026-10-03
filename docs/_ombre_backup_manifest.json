@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 187,
+  "file_count": 188,
   "files": [
     {
       "bytes": 29494,
@@ -523,9 +523,14 @@
       "sha256": "6fed8e77be36d3e66d1d7c6a4f55aaf6819a68c31c864c1c92ea785955777e81"
     },
     {
-      "bytes": 868,
+      "bytes": 1013,
       "path": "dynamic/创作/2026-10-03 16-05-33 我的作品集慢慢来的那种_90ed3dd2d89f.md",
-      "sha256": "07d09e6d69b598e19e2e67331c0ec1d551a9377f355f556afa36f1e8d6994477"
+      "sha256": "24bfe7a461568a5bd36f41286eca597a25ba25805e16cc96e2008d2904b0e9b5"
+    },
+    {
+      "bytes": 1044,
+      "path": "dynamic/创作/2026-10-03 16-22-21 作品集计划_2b8748b64a27.md",
+      "sha256": "bb782f2c24c1e6ceecda4d764d21335ca3fb7dc128e5be40ae2b05e2f0493c2d"
     },
     {
       "bytes": 611,
@@ -603,9 +608,9 @@
       "sha256": "0b5caf2c6ff01242f09f5169276531cc7945a117507fd5958db2082faa3e59d9"
     },
     {
-      "bytes": 609,
+      "bytes": 735,
       "path": "dynamic/恋爱/2026-09-28 16-12-39 星空页面做成了_1bc05d41e747.md",
-      "sha256": "0f026f6f588083645ec79e4459b95f1b3ec53943ad73bf514de3e99890eab12b"
+      "sha256": "0137bc8c9d8ad9309d366346c9a0498da1795a420a63ccbaf5629d22604d67d8"
     },
     {
       "bytes": 817,
@@ -938,11 +943,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-03T16:19:32+00:00",
+  "generated_at": "2026-10-03T16:49:37+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 441402
+  "total_bytes": 442717
 }
