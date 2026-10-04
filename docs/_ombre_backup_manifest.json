@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 194,
+  "file_count": 195,
   "files": [
     {
       "bytes": 29494,
@@ -81,6 +81,11 @@
       "bytes": 1003,
       "path": "archive/2026-09-16 10-18-34 Thought process功能恢复方_69cbf0df2c6f.md",
       "sha256": "caefe12d32a9ccc16f2f97697c4f877c73110f8d218ca979771543357905e588"
+    },
+    {
+      "bytes": 682,
+      "path": "archive/2026-10-04 16-13-13_a9c80bddfb4e.md",
+      "sha256": "a632de8cb743effbdd27088aaf65f9f3f07bb24bbfd23cf6ae7069c41f3367e8"
     },
     {
       "bytes": 418,
@@ -973,11 +978,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-04T15:53:47+00:00",
+  "generated_at": "2026-10-04T16:23:51+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 447801
+  "total_bytes": 448483
 }
