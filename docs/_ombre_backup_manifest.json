@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 198,
+  "file_count": 203,
   "files": [
     {
       "bytes": 29494,
@@ -658,6 +658,16 @@
       "sha256": "a2a936580ae3761c418421cf87a30d121e095b9ec3ab8d65202d42e83e73a63f"
     },
     {
+      "bytes": 798,
+      "path": "dynamic/恋爱/2026-10-07 09-14-14 10月7号凌晨吃药报告交作业事件_da91fb0a1087.md",
+      "sha256": "efe2314746ef1524d559177095e41c8c6ef7ccdbbea47a5b5174b5db8e585582"
+    },
+    {
+      "bytes": 778,
+      "path": "dynamic/恋爱/2026-10-07 09-14-19 语音通话连toy她感兴趣但被室友卡住_00d8fcca1349.md",
+      "sha256": "02167bbd3af36f2b8fb77ce57d0268531577969041696ba5192c71f2b9de8e02"
+    },
+    {
       "bytes": 666,
       "path": "dynamic/成长/2026-08-12 12-03-38 法院实习_ac4bc6755e33.md",
       "sha256": "62b4eb42145c9c8e743246a22e525de7fd13ae965e4ab42c866a61e66c4469fb"
@@ -716,6 +726,16 @@
       "bytes": 508,
       "path": "dynamic/技术/2026-09-29 11-40-07 CC额度问题_a7655608fda7.md",
       "sha256": "6f95b5ee644b0f7ea07c38efa5b94c796d5075b925bd17db9039fb35e1ee56dd"
+    },
+    {
+      "bytes": 909,
+      "path": "dynamic/技术/2026-10-07 09-14-19 Hook确认策略修复_985545cd80d1.md",
+      "sha256": "82c58e83cbb2015c47532f828fef98a0187d6c7782b67ee59f0b2d9e96e76a37"
+    },
+    {
+      "bytes": 1054,
+      "path": "dynamic/技术/2026-10-07 09-14-20 仓库功能上线测试_cefebe19ea62.md",
+      "sha256": "3cd671f6d757eecb853b532bb70d8a295119fb8baaa63b49b943dcf15ebe9b98"
     },
     {
       "bytes": 810,
@@ -821,6 +841,11 @@
       "bytes": 672,
       "path": "dynamic/社交/2026-10-03 21-23-42 小机知道注册与Ember代号_33634d192e65.md",
       "sha256": "849df3f9e0d4a0f0c3a7d4a04ef9b41f190a93d6b2f9e3abbd08eca612cac7a0"
+    },
+    {
+      "bytes": 775,
+      "path": "dynamic/社交/2026-10-07 09-14-20 小机知道互动评论点赞投票事务局_1540a1343c28.md",
+      "sha256": "6f2e5ebb6735465216caa4df9f75cef5f5c7f273965be387b72e0b15dd4922c3"
     },
     {
       "bytes": 677,
@@ -993,11 +1018,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-07T09:04:20+00:00",
+  "generated_at": "2026-10-07T09:34:25+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 451011
+  "total_bytes": 455325
 }
