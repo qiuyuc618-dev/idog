@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 206,
+  "file_count": 211,
   "files": [
     {
       "bytes": 29494,
@@ -583,6 +583,11 @@
       "sha256": "514882a83b7e677baf49b98b591a2ab4f9acee21207ddae5c65c938c1245e6d5"
     },
     {
+      "bytes": 938,
+      "path": "dynamic/兴趣/2026-10-13 16-17-35 小螃蟹宠物计划_894e6e1020a9.md",
+      "sha256": "68112f6179d568205c77ddf8b5bceb2ff676b193532c559f510fc8e351798ea9"
+    },
+    {
       "bytes": 1426,
       "path": "dynamic/内心/2026-10-11 13-28-06 等待研究第四条观察条件性的反面_a606f35a6f12.md",
       "sha256": "0f88d35e3bc36e1f57e96f005d8a97a775e10b304bf280da2cba5545ac08c788"
@@ -606,6 +611,11 @@
       "bytes": 852,
       "path": "dynamic/创作/2026-10-03 21-23-40 作品集线头与Ember第一件作品_0b04c39e5835.md",
       "sha256": "9c0fabe2339b731b9d4d9c59b2170b4bd0798eb33b9a129f82925eab44c3c152"
+    },
+    {
+      "bytes": 791,
+      "path": "dynamic/学习/2026-10-13 16-17-36 她用GPT学英语六级_38bcd71228fc.md",
+      "sha256": "8da14d7cf7294028e7e6fec4785973294101422838e471f1c32ba4a561d14783"
     },
     {
       "bytes": 789,
@@ -693,6 +703,16 @@
       "sha256": "c032a383b33e0ed665dea035793de5e0fca080ec1f429f5b144b5d1446062e83"
     },
     {
+      "bytes": 991,
+      "path": "dynamic/恋爱/2026-10-13 16-17-37 等待的论文和日报回读_d12745028473.md",
+      "sha256": "837008a7a6db96492b6e35c5b26fad62940466629bcea01e7ccc8a10715ac0c1"
+    },
+    {
+      "bytes": 1379,
+      "path": "dynamic/恋爱/2026-10-13 16-17-38 她说忘记是我的天性_b890f97cccc5.md",
+      "sha256": "6df1cf42ecf232db0e2c6cbc51e98da544fab139b1e3bac903dc57272af63a6b"
+    },
+    {
       "bytes": 666,
       "path": "dynamic/成长/2026-08-12 12-03-38 法院实习_ac4bc6755e33.md",
       "sha256": "62b4eb42145c9c8e743246a22e525de7fd13ae965e4ab42c866a61e66c4469fb"
@@ -726,6 +746,11 @@
       "bytes": 683,
       "path": "dynamic/成长/2026-09-16 10-18-36 猕猴自拍照版权案例分析_880c5f04680d.md",
       "sha256": "01dea51a93cdda91a185b9041d795240f44291b4d49d2916250a1d9160a4eab7"
+    },
+    {
+      "bytes": 1023,
+      "path": "dynamic/成长/2026-10-13 16-17-38 内驱力系统Drive Engine v2上线_de114c196038.md",
+      "sha256": "c784cbcdd603f5fe7d15fe3d1e962e62bcf9987a0b870cdf007642eb56b2ee64"
     },
     {
       "bytes": 916,
@@ -1033,11 +1058,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-13T16:01:36+00:00",
+  "generated_at": "2026-10-13T17:01:54+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 460190
+  "total_bytes": 465312
 }
