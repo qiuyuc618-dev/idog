@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 211,
+  "file_count": 212,
   "files": [
     {
       "bytes": 29494,
@@ -623,6 +623,11 @@
       "sha256": "9c0fabe2339b731b9d4d9c59b2170b4bd0798eb33b9a129f82925eab44c3c152"
     },
     {
+      "bytes": 711,
+      "path": "dynamic/创作/2026-10-17 13-09-26 开源项目定名 Plume_d6fc1db64706.md",
+      "sha256": "98e57da6bba9d238d4c6ac877ff7c85258ef5fc2701fad000fee5e7f7e89b514"
+    },
+    {
       "bytes": 791,
       "path": "dynamic/学习/2026-10-13 16-17-36 她用GPT学英语六级_38bcd71228fc.md",
       "sha256": "8da14d7cf7294028e7e6fec4785973294101422838e471f1c32ba4a561d14783"
@@ -1058,11 +1063,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-17T12:49:46+00:00",
+  "generated_at": "2026-10-17T13:19:52+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 465332
+  "total_bytes": 466043
 }
