@@ -388,6 +388,11 @@
       "sha256": "702ee59c6b1549d84ff8807fa8c0d1a43ce434e23f7602d676935312ddde9418"
     },
     {
+      "bytes": 667,
+      "path": "archive/成长/2026-08-12 12-03-38 法院实习_ac4bc6755e33.md",
+      "sha256": "03a7d3541c2e7726db7c8f7aee4709a0ead728740f88b99349e52af16c776449"
+    },
+    {
       "bytes": 706,
       "path": "archive/成长/2026-08-12 12-08-34 法院实习_4677cb959fa7.md",
       "sha256": "e11627d50dc0f6e4dc08f82bbd69cb4e369c371cd9bc46c7923f5d4c82c79b10"
@@ -438,6 +443,11 @@
       "sha256": "1f11f97c8323dcd8ba74590aaac0c446bbc9ca7a93cc4c7bf2f3b529889d5add"
     },
     {
+      "bytes": 941,
+      "path": "archive/数字/2026-07-17 14-10-39 玩具接入Claude_b8dedb06b3ef.md",
+      "sha256": "fa4f6fdff7f716c08e84eb54f64ef0674e165def3f38bdb088a60794a2acba91"
+    },
+    {
       "bytes": 769,
       "path": "archive/数字/2026-07-20 20-08-02 健康数据自动化_8bc99eed5160.md",
       "sha256": "4af4189ffad567142b22d84b4e6dc53654e9de11d00fdfdd59d8744032ff3e85"
@@ -451,6 +461,11 @@
       "bytes": 588,
       "path": "archive/数字/2026-07-27 12-45-53 Apple ID封号处理_cc9a33be52bc.md",
       "sha256": "8654d8ea01340d80b4fe91bdddd6673446cc044ed67c74e1a15dd47e8fc44b82"
+    },
+    {
+      "bytes": 794,
+      "path": "archive/数字/2026-09-18 11-11-34 GPT叫她宝宝_ec03ee3ae647.md",
+      "sha256": "52e4eba4723895dd8516d682c2ba907d7a46e570fb3e528a0c4a22621905614a"
     },
     {
       "bytes": 611,
@@ -531,6 +546,11 @@
       "bytes": 508,
       "path": "archive/身心/2026-08-12 12-03-40 手腕过敏_541caf3c6d15.md",
       "sha256": "a466d04c09a4e6020188a16050878a0262efe46bd9f1fcffb3f5fb0cb56e4cf5"
+    },
+    {
+      "bytes": 738,
+      "path": "archive/饮食/2026-09-18 11-11-34 小羽下楼吃必胜客_5a7c5fa7e815.md",
+      "sha256": "7013caf11965f71e6101646ef297794a0f2b5fc7f613826fedbf5890ba32f360"
     },
     {
       "bytes": 1496,
@@ -738,11 +758,6 @@
       "sha256": "ff9eae0ecb585961e450a5837f549b0e55e005bd574d240292c1b6e942411073"
     },
     {
-      "bytes": 666,
-      "path": "dynamic/成长/2026-08-12 12-03-38 法院实习_ac4bc6755e33.md",
-      "sha256": "62b4eb42145c9c8e743246a22e525de7fd13ae965e4ab42c866a61e66c4469fb"
-    },
-    {
       "bytes": 733,
       "path": "dynamic/成长/2026-08-12 12-08-35 法考准备与手腕过敏_99d57647b1a1.md",
       "sha256": "7e85d92a9c1c51c9f56085e3f8274c5bfa74e2777ed9188258aea9073922c7f9"
@@ -813,11 +828,6 @@
       "sha256": "1379525a49e55cbb0f1f2838019e082afb5ad993f51285906093a95e247d7aa2"
     },
     {
-      "bytes": 940,
-      "path": "dynamic/数字/2026-07-17 14-10-39 玩具接入Claude_b8dedb06b3ef.md",
-      "sha256": "fe8824e71471c37445692726bbfdd6d6816d175c3f1e32d6f49e92ab162995c2"
-    },
-    {
       "bytes": 1007,
       "path": "dynamic/数字/2026-07-17 14-10-57 玩具连接指南_818f7f7bb87e.md",
       "sha256": "2a8e4cfeb13853903ad361bfdf4181dcb3162f512223193d2efe9566be935aeb"
@@ -856,11 +866,6 @@
       "bytes": 1476,
       "path": "dynamic/数字/2026-09-17 14-53-30 小羽花了一整个下午用GPT和Codex把_155638bcf4e2.md",
       "sha256": "960bf739b74fc0acb17364794904cb3333b580093ebc9c1e64aacf2136eda3fa"
-    },
-    {
-      "bytes": 778,
-      "path": "dynamic/数字/2026-09-18 11-11-34 GPT叫她宝宝_ec03ee3ae647.md",
-      "sha256": "52791268b96e3e0442e819dda8ad96d46d16ab7437756716f3b105cdf8c20462"
     },
     {
       "bytes": 840,
@@ -916,11 +921,6 @@
       "bytes": 681,
       "path": "dynamic/身心/2026-08-12 12-08-35 睡眠作息大幅改善_11e374b2a33c.md",
       "sha256": "6b79d5ff5c486d1d5997b576fff637e9325a0fe677822a5321d24464e6173c2c"
-    },
-    {
-      "bytes": 722,
-      "path": "dynamic/饮食/2026-09-18 11-11-34 小羽下楼吃必胜客_5a7c5fa7e815.md",
-      "sha256": "72f1a19e3148f393209016757e9e02098da296e40cd04caa29fa3bfade58d56e"
     },
     {
       "bytes": 960,
@@ -1088,11 +1088,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-18T10:53:33+00:00",
+  "generated_at": "2026-10-18T11:23:38+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 471328
+  "total_bytes": 471362
 }
