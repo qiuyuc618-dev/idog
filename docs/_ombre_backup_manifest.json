@@ -1,57 +1,7 @@
 {
   "branch": "main",
-  "file_count": 217,
+  "file_count": 207,
   "files": [
-    {
-      "bytes": 29494,
-      "path": "_app/docs/CLAUDE_PROMPT.md",
-      "sha256": "7851e0ca0b8a6300456ca8a1445925abea708b72897a2e9859209c168b95beec"
-    },
-    {
-      "bytes": 6987,
-      "path": "_app/docs/ENVIRONMENT_VARIABLES.md",
-      "sha256": "9287fa0459e4a22302dd7a10cdaf6c508593b8d2a3f98893b9eaa2dca9aa5916"
-    },
-    {
-      "bytes": 160557,
-      "path": "_app/docs/INTERNALS.md",
-      "sha256": "e28ab2b712331eb8f577dc0f58c7825afdb79472dedede337f5049a6bfe8d5c9"
-    },
-    {
-      "bytes": 3683,
-      "path": "_app/docs/MULTI_OWNER.md",
-      "sha256": "aa53a14bd66413b57332bcf80477eb8d856be4d2bfa9f24ae0fec49f2d8f6cfd"
-    },
-    {
-      "bytes": 22510,
-      "path": "_app/docs/OPERATIONS.md",
-      "sha256": "891741de81ebab953e44a3db65a03696df10e549b81e5da4693818db1a0833ba"
-    },
-    {
-      "bytes": 4547,
-      "path": "_app/docs/adr/ADR-0001-source-evidence-layer.md",
-      "sha256": "71518c681edf8203f147cabbd4158b5351678ca2af22bad39053554f6377a23e"
-    },
-    {
-      "bytes": 55882,
-      "path": "_app/docs/adr/ADR-0002-read-only-spark-boundary.md",
-      "sha256": "1407ca33d5c1f207b864ae186036ab5e3053fd900720561e463e78c8b872aed6"
-    },
-    {
-      "bytes": 5911,
-      "path": "_app/docs/adr/ADR-0003-unified-human-archive-entry.md",
-      "sha256": "cc0f57d3fff217f0ccff28bbd3c14c286d9110715d90da144bcef27ea848fbfe"
-    },
-    {
-      "bytes": 9052,
-      "path": "_app/docs/adr/ADR-0004-you-derived-understanding-boundary.md",
-      "sha256": "fad6f6de63730db24232be68a96960362065bdc8659ab033b6fe1b14e679a24a"
-    },
-    {
-      "bytes": 508,
-      "path": "_app/kernel/rust/ombre-kernel/README.md",
-      "sha256": "4d4966ba00c5c08d021b112fc82fa3d5cd15fa5397633301f98941a37b71fd4d"
-    },
     {
       "bytes": 879,
       "path": "_sources/src_0962dfd23193188143bf06cee677328857c8d541464024b0090b5dcb9aba3649.source",
@@ -468,6 +418,11 @@
       "sha256": "8654d8ea01340d80b4fe91bdddd6673446cc044ed67c74e1a15dd47e8fc44b82"
     },
     {
+      "bytes": 816,
+      "path": "archive/数字/2026-08-12 12-08-36 主动推送方案与toy新方案_7ead62545771.md",
+      "sha256": "c8927e9ca0047f76e31a9ff3230ee2d9aa5430e8522fd271f725a0aec9925416"
+    },
+    {
       "bytes": 794,
       "path": "archive/数字/2026-09-18 11-11-34 GPT叫她宝宝_ec03ee3ae647.md",
       "sha256": "52e4eba4723895dd8516d682c2ba907d7a46e570fb3e528a0c4a22621905614a"
@@ -843,11 +798,6 @@
       "sha256": "edc8023782207f2e2ad552e2766e7db2617e6f737da3d8f63d1e072a7abf1f05"
     },
     {
-      "bytes": 815,
-      "path": "dynamic/数字/2026-08-12 12-08-36 主动推送方案与toy新方案_7ead62545771.md",
-      "sha256": "a9f08d9a4808cde1c0d8055a60d628a8bf6322ecc5efa8fc49991edbd67adae3"
-    },
-    {
       "bytes": 957,
       "path": "dynamic/数字/2026-08-23 22-14-51 搭建小克唤醒系统基础架构_ee917fa55ad6.md",
       "sha256": "6d4704d7931baf32268f9069cfd9fda486455316724c9f8c0913aa1a78115c55"
@@ -1088,11 +1038,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-20T10:02:12+00:00",
+  "generated_at": "2026-10-20T11:06:40+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 471364
+  "total_bytes": 172234
 }
