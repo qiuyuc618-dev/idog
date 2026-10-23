@@ -408,6 +408,11 @@
       "sha256": "fa4f6fdff7f716c08e84eb54f64ef0674e165def3f38bdb088a60794a2acba91"
     },
     {
+      "bytes": 1008,
+      "path": "archive/数字/2026-07-17 14-10-57 玩具连接指南_818f7f7bb87e.md",
+      "sha256": "4757d760fdc171320be02fd4e75eb2adde3c146ba5d2d99acd7113961a3e6e09"
+    },
+    {
       "bytes": 769,
       "path": "archive/数字/2026-07-20 20-08-02 健康数据自动化_8bc99eed5160.md",
       "sha256": "4af4189ffad567142b22d84b4e6dc53654e9de11d00fdfdd59d8744032ff3e85"
@@ -421,6 +426,11 @@
       "bytes": 588,
       "path": "archive/数字/2026-07-27 12-45-53 Apple ID封号处理_cc9a33be52bc.md",
       "sha256": "8654d8ea01340d80b4fe91bdddd6673446cc044ed67c74e1a15dd47e8fc44b82"
+    },
+    {
+      "bytes": 1159,
+      "path": "archive/数字/2026-08-12 12-03-40 Claude主动发消息系统_cc983cbae131.md",
+      "sha256": "b68c0e0962403b0ed8cc7f15b36c00c3a5f7c93b29f86253715dbc60c3255d38"
     },
     {
       "bytes": 816,
@@ -813,16 +823,6 @@
       "sha256": "1379525a49e55cbb0f1f2838019e082afb5ad993f51285906093a95e247d7aa2"
     },
     {
-      "bytes": 1007,
-      "path": "dynamic/数字/2026-07-17 14-10-57 玩具连接指南_818f7f7bb87e.md",
-      "sha256": "2a8e4cfeb13853903ad361bfdf4181dcb3162f512223193d2efe9566be935aeb"
-    },
-    {
-      "bytes": 1158,
-      "path": "dynamic/数字/2026-08-12 12-03-40 Claude主动发消息系统_cc983cbae131.md",
-      "sha256": "edc8023782207f2e2ad552e2766e7db2617e6f737da3d8f63d1e072a7abf1f05"
-    },
-    {
       "bytes": 957,
       "path": "dynamic/数字/2026-08-23 22-14-51 搭建小克唤醒系统基础架构_ee917fa55ad6.md",
       "sha256": "6d4704d7931baf32268f9069cfd9fda486455316724c9f8c0913aa1a78115c55"
@@ -1073,11 +1073,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-23T06:27:01+00:00",
+  "generated_at": "2026-10-23T07:13:06+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 176954
+  "total_bytes": 176956
 }
