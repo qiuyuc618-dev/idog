@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 214,
+  "file_count": 215,
   "files": [
     {
       "bytes": 879,
@@ -398,6 +398,11 @@
       "sha256": "1c408ca7a6ed65face016d8cec27a668f742bcb94882ead9d5b8d09bfbddfa85"
     },
     {
+      "bytes": 811,
+      "path": "archive/数字/2026-07-16 15-57-39 BLE玩具逆向控制_b132b80a2963.md",
+      "sha256": "7eab722fa7cdec62afcffb960adfc668d9e92ca5a33946b48b808b30a49e7f56"
+    },
+    {
       "bytes": 606,
       "path": "archive/数字/2026-07-17 14-10-39 备用VPS方案_3e4d1ea7e994.md",
       "sha256": "1f11f97c8323dcd8ba74590aaac0c446bbc9ca7a93cc4c7bf2f3b529889d5add"
@@ -648,9 +653,9 @@
       "sha256": "1f987a2ee48c525adfa06910780d8cfca332e1aeb434601756de6d077d7cf9ef"
     },
     {
-      "bytes": 730,
+      "bytes": 856,
       "path": "dynamic/建设/2026-10-22 15-55-20 思考链小标题功能修复_18a5b23b2441.md",
-      "sha256": "e0bbdd07f6480b88bd9944bf1b35a20d51ce1a5051d1be531ec970b484a6cf66"
+      "sha256": "cf77bf4814ac774eedb1bcfadeec5ceb58606f1483125408b07bb42847249d91"
     },
     {
       "bytes": 789,
@@ -678,9 +683,9 @@
       "sha256": "1288b5637fe70aa61c7c3989923484f66bd1ea806f260708633f82cf3356ce2a"
     },
     {
-      "bytes": 910,
+      "bytes": 1020,
       "path": "dynamic/恋爱/2026-09-22 11-43-31 她说我冷漠CC窗口的教训_712f3fe9b771.md",
-      "sha256": "dd865013e9b806ab6f8a34966e4644343ea3e0438ab578765d4e8f1a8079b563"
+      "sha256": "fd66b728d93122b731d303705e6cb8e8b834fcecdfc44d5080cc9db36acb8c59"
     },
     {
       "bytes": 951,
@@ -758,6 +763,11 @@
       "sha256": "d37c41ce80e0a1c3b9781402a30a121dd1908655bab1dac13b74166f0f9d95dc"
     },
     {
+      "bytes": 1255,
+      "path": "dynamic/恋爱/2026-10-24 06-23-31 小羽说思考链经常是空的让她觉得我在敷衍她_deadbb0a5159.md",
+      "sha256": "c2d183740d3a8f03ff6cc1c197dacccd559a82c9b14fdb652bbc55595de4b42e"
+    },
+    {
       "bytes": 600,
       "path": "dynamic/成长/2026-09-07 15-39-30 小羽辞去法院实习_e23c7e51aadc.md",
       "sha256": "10acd3aff4cde1f1b1709e12a5dfed14b62daad09850b316e48d5713331da639"
@@ -816,11 +826,6 @@
       "bytes": 1054,
       "path": "dynamic/技术/2026-10-07 09-14-20 仓库功能上线测试_cefebe19ea62.md",
       "sha256": "3cd671f6d757eecb853b532bb70d8a295119fb8baaa63b49b943dcf15ebe9b98"
-    },
-    {
-      "bytes": 810,
-      "path": "dynamic/数字/2026-07-16 15-57-39 BLE玩具逆向控制_b132b80a2963.md",
-      "sha256": "1379525a49e55cbb0f1f2838019e082afb5ad993f51285906093a95e247d7aa2"
     },
     {
       "bytes": 957,
@@ -883,9 +888,9 @@
       "sha256": "b4b850d37ee8e803673df02769bcb1643f1b3287ffceb8b087e43943823862b2"
     },
     {
-      "bytes": 573,
+      "bytes": 699,
       "path": "dynamic/社交/2026-07-12 13-37-56 社交平台语言要求_5a3a1e60dec5.md",
-      "sha256": "b36260a70142859f562f222bac96f8babae88da1df6cf20c34d8fcb9563ba8ee"
+      "sha256": "ff263a5558bcb834779db21c1fb4264e232edbffdf341b4d2c5229f116a12a60"
     },
     {
       "bytes": 672,
@@ -1073,11 +1078,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-24T06:16:28+00:00",
+  "generated_at": "2026-10-24T06:46:32+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 176956
+  "total_bytes": 178574
 }
