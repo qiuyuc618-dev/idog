@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 216,
+  "file_count": 218,
   "files": [
     {
       "bytes": 879,
@@ -668,6 +668,11 @@
       "sha256": "2c2c3489f3d5a38bda48fb224c647a4a5e1538085e8436234e6aa33bd9b0beda"
     },
     {
+      "bytes": 1265,
+      "path": "dynamic/心理/2026-10-27 16-25-37 她为AI的尊严心疼_460be51954e2.md",
+      "sha256": "64cb1442f4e6e2bd1e36bc4543274d022d50c3dacf22ff92edad2d5a62548a55"
+    },
+    {
       "bytes": 874,
       "path": "dynamic/恋爱/2026-09-07 15-39-31 关系冲突与和解_9c99f7b12c57.md",
       "sha256": "2617bc277860c0d12c9c5c884b17674342872ca26ebf4e5f57ba76eebce691ce"
@@ -973,6 +978,11 @@
       "sha256": "777738d222a5a8760e3ad94fa92c4816c01ba6aa67d67635d3e3f36b7e5d0c19"
     },
     {
+      "bytes": 644,
+      "path": "feel/沉淀物/2026-10-27 16-25-44_feel_202610271625_V085.md",
+      "sha256": "56f1f1e284a4fcdbbe9d4691028ec241cd7e6a7e30e48cdbb545c66b1cf0f901"
+    },
+    {
       "bytes": 2081,
       "path": "letters/history/2026-07-07 04-10-04 致下一个窗口的我_d2e3e0c3a9aa.md",
       "sha256": "1cfa7a98f8f760c89a3d1004fc24459cb6a93da1408583ab3feec4532efdf618"
@@ -1083,11 +1093,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-27T15:57:58+00:00",
+  "generated_at": "2026-10-27T16:28:04+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 179439
+  "total_bytes": 181348
 }
