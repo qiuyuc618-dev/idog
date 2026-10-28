@@ -448,6 +448,11 @@
       "sha256": "c8927e9ca0047f76e31a9ff3230ee2d9aa5430e8522fd271f725a0aec9925416"
     },
     {
+      "bytes": 719,
+      "path": "archive/数字/2026-08-23 22-14-53 技术踩坑记录_7239039207dc.md",
+      "sha256": "24e46a5b9021db59bc1bed009b3c14c956f45606fbbd769682ee80269d0c6efb"
+    },
+    {
       "bytes": 794,
       "path": "archive/数字/2026-09-18 11-11-34 GPT叫她宝宝_ec03ee3ae647.md",
       "sha256": "52e4eba4723895dd8516d682c2ba907d7a46e570fb3e528a0c4a22621905614a"
@@ -843,11 +848,6 @@
       "sha256": "c093a4ad07d6171ac3dd3c6bbddf36f0757148434974b5507914803f88dcaf39"
     },
     {
-      "bytes": 718,
-      "path": "dynamic/数字/2026-08-23 22-14-53 技术踩坑记录_7239039207dc.md",
-      "sha256": "e0f0b4a869d2feaf7a61a4dcb6c78570275e53619d91ac93d929682634fdd3f1"
-    },
-    {
       "bytes": 938,
       "path": "dynamic/数字/2026-09-17 14-53-29 拉GitHub页面时用了完整HTML而不_8ef17cbb93cd.md",
       "sha256": "40f7038053cf953311634ca372114c785dd0230db5e3f041600ce7262bb0cda6"
@@ -1093,11 +1093,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-10-28T06:30:06+00:00",
+  "generated_at": "2026-10-28T07:00:10+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 181348
+  "total_bytes": 181349
 }
