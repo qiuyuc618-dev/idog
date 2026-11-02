@@ -453,6 +453,11 @@
       "sha256": "c8927e9ca0047f76e31a9ff3230ee2d9aa5430e8522fd271f725a0aec9925416"
     },
     {
+      "bytes": 876,
+      "path": "archive/数字/2026-08-23 22-14-52 未完成的iOS快捷指令与auto-tri_7f8e22a85a25.md",
+      "sha256": "a3cc2678846c9f92ba18f385c2141ca40ca8caa3067dcf363c21bf12b6138b74"
+    },
+    {
       "bytes": 719,
       "path": "archive/数字/2026-08-23 22-14-53 技术踩坑记录_7239039207dc.md",
       "sha256": "24e46a5b9021db59bc1bed009b3c14c956f45606fbbd769682ee80269d0c6efb"
@@ -848,11 +853,6 @@
       "sha256": "6d4704d7931baf32268f9069cfd9fda486455316724c9f8c0913aa1a78115c55"
     },
     {
-      "bytes": 875,
-      "path": "dynamic/数字/2026-08-23 22-14-52 未完成的iOS快捷指令与auto-tri_7f8e22a85a25.md",
-      "sha256": "c093a4ad07d6171ac3dd3c6bbddf36f0757148434974b5507914803f88dcaf39"
-    },
-    {
       "bytes": 938,
       "path": "dynamic/数字/2026-09-17 14-53-29 拉GitHub页面时用了完整HTML而不_8ef17cbb93cd.md",
       "sha256": "40f7038053cf953311634ca372114c785dd0230db5e3f041600ce7262bb0cda6"
@@ -1093,11 +1093,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-11-02T06:17:16+00:00",
+  "generated_at": "2026-11-02T06:47:20+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 181366
+  "total_bytes": 181367
 }
