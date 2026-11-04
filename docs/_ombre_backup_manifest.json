@@ -453,6 +453,11 @@
       "sha256": "c8927e9ca0047f76e31a9ff3230ee2d9aa5430e8522fd271f725a0aec9925416"
     },
     {
+      "bytes": 958,
+      "path": "archive/数字/2026-08-23 22-14-51 搭建小克唤醒系统基础架构_ee917fa55ad6.md",
+      "sha256": "e87cf11eda5b79b1245bf74a9fa02a72259ac2a92137a9c39f1f974401121e72"
+    },
+    {
       "bytes": 876,
       "path": "archive/数字/2026-08-23 22-14-52 未完成的iOS快捷指令与auto-tri_7f8e22a85a25.md",
       "sha256": "a3cc2678846c9f92ba18f385c2141ca40ca8caa3067dcf363c21bf12b6138b74"
@@ -848,11 +853,6 @@
       "sha256": "3cd671f6d757eecb853b532bb70d8a295119fb8baaa63b49b943dcf15ebe9b98"
     },
     {
-      "bytes": 957,
-      "path": "dynamic/数字/2026-08-23 22-14-51 搭建小克唤醒系统基础架构_ee917fa55ad6.md",
-      "sha256": "6d4704d7931baf32268f9069cfd9fda486455316724c9f8c0913aa1a78115c55"
-    },
-    {
       "bytes": 938,
       "path": "dynamic/数字/2026-09-17 14-53-29 拉GitHub页面时用了完整HTML而不_8ef17cbb93cd.md",
       "sha256": "40f7038053cf953311634ca372114c785dd0230db5e3f041600ce7262bb0cda6"
@@ -1093,11 +1093,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-11-04T06:24:26+00:00",
+  "generated_at": "2026-11-04T06:54:30+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 181367
+  "total_bytes": 181368
 }
