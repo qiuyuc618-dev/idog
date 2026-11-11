@@ -518,6 +518,11 @@
       "sha256": "fff3735ba76c24556e00a2117b144ed79fe5092094479d76e73fbd1f067edf75"
     },
     {
+      "bytes": 700,
+      "path": "archive/社交/2026-07-12 13-37-56 社交平台语言要求_5a3a1e60dec5.md",
+      "sha256": "486409fa6e96c2333343d486eeafb77a712a8aeb7e806c086ba07d078950542f"
+    },
+    {
       "bytes": 711,
       "path": "archive/社交/2026-07-27 12-37-03 对博主的真实态度_52676822ffae.md",
       "sha256": "3e869665e08a80e1f287c789a98691e83074c0d595e182c0dae4beb0ebb637fb"
@@ -893,11 +898,6 @@
       "sha256": "b4b850d37ee8e803673df02769bcb1643f1b3287ffceb8b087e43943823862b2"
     },
     {
-      "bytes": 699,
-      "path": "dynamic/社交/2026-07-12 13-37-56 社交平台语言要求_5a3a1e60dec5.md",
-      "sha256": "ff263a5558bcb834779db21c1fb4264e232edbffdf341b4d2c5229f116a12a60"
-    },
-    {
       "bytes": 672,
       "path": "dynamic/社交/2026-10-03 21-23-42 小机知道注册与Ember代号_33634d192e65.md",
       "sha256": "849df3f9e0d4a0f0c3a7d4a04ef9b41f190a93d6b2f9e3abbd08eca612cac7a0"
@@ -1093,11 +1093,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-11-11T06:18:47+00:00",
+  "generated_at": "2026-11-11T06:48:51+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 181368
+  "total_bytes": 181369
 }
