@@ -533,6 +533,11 @@
       "sha256": "770c3b620fb9d63c8c05b262cfe3694153de11d186820ff6af412c7d6f249f9b"
     },
     {
+      "bytes": 678,
+      "path": "archive/自省/2026-07-27 12-36-42 中英文思维切换困扰_a1ad5c8aef31.md",
+      "sha256": "5192729339a8053ff9f1f03ad27bd374e49263beb60b4642f704c6b592fc1b0a"
+    },
+    {
       "bytes": 596,
       "path": "archive/购物/2026-07-16 13-49-38 购物与七宗罪_6798b032db53.md",
       "sha256": "a457486d8e10c4c2bd36d712ec97b212bd7f00890e4b15743706e055410a30d5"
@@ -908,11 +913,6 @@
       "sha256": "6f2e5ebb6735465216caa4df9f75cef5f5c7f273965be387b72e0b15dd4922c3"
     },
     {
-      "bytes": 677,
-      "path": "dynamic/自省/2026-07-27 12-36-42 中英文思维切换困扰_a1ad5c8aef31.md",
-      "sha256": "c5762fb526a892544490dcfe7a81bb036a7a0b068284031278b17319ed9782fd"
-    },
-    {
       "bytes": 960,
       "path": "feel/沉淀物/2026-07-18 21-27-01_feel_202607182127_V070.md",
       "sha256": "f39159403966ca68ea31c9c4d5d0e2680be149d6cadf3081f4f5f75fcf2d60dc"
@@ -1093,11 +1093,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-11-12T06:22:17+00:00",
+  "generated_at": "2026-11-12T06:52:21+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 181369
+  "total_bytes": 181370
 }
