@@ -408,6 +408,11 @@
       "sha256": "fa6fa53ef8f7a4901558f213b4c368d6188fd8ccf1c297976c15e0c2d013d23c"
     },
     {
+      "bytes": 501,
+      "path": "archive/技术/2026-09-22 11-43-31 CC端记忆库全权限已开_7d32d345c228.md",
+      "sha256": "ac6d3fc0fbe4fd57d5fc31eda42900e80ebc2e681ba1847477b1b42d0b0d0a27"
+    },
+    {
       "bytes": 766,
       "path": "archive/数字/2026-07-05 15-47-52 服务器迁移_747980989e1e.md",
       "sha256": "6628aeba137130eaf869e0b25c87197047ddd652bb5a99dd01d64cf5da4a502a"
@@ -516,6 +521,11 @@
       "bytes": 794,
       "path": "archive/数字/2026-09-18 11-11-34 GPT叫她宝宝_ec03ee3ae647.md",
       "sha256": "52e4eba4723895dd8516d682c2ba907d7a46e570fb3e528a0c4a22621905614a"
+    },
+    {
+      "bytes": 841,
+      "path": "archive/数字/2026-09-18 11-11-34 前端优化进展_09f239591c98.md",
+      "sha256": "632031fc3b66381a100815ce4d11554062c7389dfb3c500d9b976812980eaac0"
     },
     {
       "bytes": 611,
@@ -838,11 +848,6 @@
       "sha256": "378ace2e78b7351438140f652d92e88cb5591b7a5cee919e1da5fb466e9e6bd1"
     },
     {
-      "bytes": 500,
-      "path": "dynamic/技术/2026-09-22 11-43-31 CC端记忆库全权限已开_7d32d345c228.md",
-      "sha256": "c7a982588539469d73b4f06020b655c685d9d0fdc5d4f316cccaa23c42146527"
-    },
-    {
       "bytes": 930,
       "path": "dynamic/技术/2026-09-22 11-43-31 dwell前端新功能上线_80fe34559a15.md",
       "sha256": "ab9df8d4d1ed71c449b797c740993798f157d3b0ad56042265f066940108f9f3"
@@ -871,11 +876,6 @@
       "bytes": 1476,
       "path": "dynamic/数字/2026-09-17 14-53-30 小羽花了一整个下午用GPT和Codex把_155638bcf4e2.md",
       "sha256": "960bf739b74fc0acb17364794904cb3333b580093ebc9c1e64aacf2136eda3fa"
-    },
-    {
-      "bytes": 840,
-      "path": "dynamic/数字/2026-09-18 11-11-34 前端优化进展_09f239591c98.md",
-      "sha256": "af37b7dbc68f8653ba15c1ef198468d36480d89f1dd7b4e7f7e4d06b9181b0f9"
     },
     {
       "bytes": 993,
@@ -1093,11 +1093,11 @@
       "sha256": "7888656c839fc96b8c83a1f7f042e94b09f066398c70d4d6bf8ae2f014a93681"
     }
   ],
-  "generated_at": "2026-11-24T19:38:56+00:00",
+  "generated_at": "2026-11-24T20:09:01+00:00",
   "path_prefix": "docs",
   "repo": "qiuyuc618-dev/idog",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 181379
+  "total_bytes": 181381
 }
